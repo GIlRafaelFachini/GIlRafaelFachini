@@ -19,7 +19,6 @@
       <td>
         <img align="center" alt="Start" height="30" width="30" src="https://raw.githubusercontent.com/RuanVFachini/RuanVFachini/main/start.png">
         <img align="center" alt="Start" height="30" width="30" src="https://raw.githubusercontent.com/RuanVFachini/RuanVFachini/main/start.png">
-        <img align="center" alt="Start" height="30" width="30" src="https://raw.githubusercontent.com/RuanVFachini/RuanVFachini/main/start.png">
       </td>
     </tr>
   </tbody>
@@ -36,7 +35,6 @@
         <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
       </td>
       <td>
-        <img align="center" alt="Start" height="30" width="30" src="https://raw.githubusercontent.com/RuanVFachini/RuanVFachini/main/start.png">
         <img align="center" alt="Start" height="30" width="30" src="https://raw.githubusercontent.com/RuanVFachini/RuanVFachini/main/start.png">
         <img align="center" alt="Start" height="30" width="30" src="https://raw.githubusercontent.com/RuanVFachini/RuanVFachini/main/start.png">
        </td>
