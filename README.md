@@ -55,7 +55,6 @@
       <td>
         <img align="center" alt="Start" height="30" width="30" src="https://raw.githubusercontent.com/RuanVFachini/RuanVFachini/main/start.png">
         <img align="center" alt="Start" height="30" width="30" src="https://raw.githubusercontent.com/RuanVFachini/RuanVFachini/main/start.png">
-        <img align="center" alt="Start" height="30" width="30" src="https://raw.githubusercontent.com/RuanVFachini/RuanVFachini/main/start.png">
       </td>
     </tr>
     <tr>
